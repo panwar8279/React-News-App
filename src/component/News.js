@@ -8,7 +8,7 @@ const [articles,setArticles] = useState([])
 const [loading,setLoading] = useState(true)
 const [page,setPage] = useState(true)
 const [totalResults,setTotalResults] = useState(0)
-// document.title=`${capitalizeFirstLetter(props.category)} -NewsApp`;
+
 
   // ............ to capitalize first letter ...................
 
@@ -38,6 +38,7 @@ const [totalResults,setTotalResults] = useState(0)
 
   //...........................Method 1 start here...............................
   useEffect(()=>{
+    document.title=`${capitalizeFirstLetter(props.category)} -NewsApp`;
     updateNews();
 
   },[])
