@@ -12,9 +12,6 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
-https://github.com/panwar8279/React-News-App/blob/main/images/img.png
-https://github.com/panwar8279/React-News-App/blob/main/images/news-app.mp4
-
 You may also see any lint errors in the console.
 
 ### `npm test`
@@ -71,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### You can check this video file for result.
+https://github.com/panwar8279/React-News-App/blob/main/images/news-app.mp4
